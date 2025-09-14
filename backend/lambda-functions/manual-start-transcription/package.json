@@ -1,0 +1,10 @@
+{
+  "name": "manual-start-transcription",
+  "version": "1.0.0",
+  "description": "Lambda function to manually start AWS transcription jobs",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-transcribe": "^3.0.0",
+    "@aws-sdk/client-dynamodb": "^3.0.0"
+  }
+}

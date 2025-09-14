@@ -1,0 +1,9 @@
+{
+  "TranscriptionStack": {
+    "ApiGatewayUrl": "https://1fx9i7dt13.execute-api.ap-south-1.amazonaws.com/prod/",
+    "AudioBucketName": "transcription-audio-files-110068290700-ap-south-1",
+    "TranscriptionsTableName": "transcriptions",
+    "TranscriptsBucketName": "transcription-results-110068290700-ap-south-1",
+    "TranscriptionApiEndpoint95B91254": "https://1fx9i7dt13.execute-api.ap-south-1.amazonaws.com/prod/"
+  }
+}
