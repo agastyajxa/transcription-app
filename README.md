@@ -1,4 +1,4 @@
-# 🎤 AWS Transcription App
+# AWS Transcription App
 
 A full-stack transcription application that converts voice recordings and audio files to text using AWS Transcribe service.
 
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/2dff1b62-7a2d-4c59-8502-385395fe0a53
 
 
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/2dff1b62-7a2d-4c59-8502-385395fe0a53
                         └─────────────────┘
 ```
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** with TypeScript
@@ -267,6 +267,3 @@ Built as a final year project demonstrating full-stack AWS development with mode
 - ✅ **Error Handling**: Auto-fix and recovery mechanisms
 - ✅ **Modern UI**: Responsive design with dark/light themes
 - ✅ **Production Deployment**: AWS CDK infrastructure ready
-
-**Demo URL**: http://localhost:5173 (development)
-**API URL**: https://1fx9i7dt13.execute-api.ap-south-1.amazonaws.com/prod
