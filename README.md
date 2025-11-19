@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/2dff1b62-7a2d-4c59-8502-385395fe0a53
 - **ESLint** for code quality
 - **Git** for version control
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Node.js** 18+
 - **AWS Account** with appropriate permissions
@@ -131,7 +131,7 @@ Ensure your AWS user/role has permissions for:
 - Transcribe (start jobs, get results)
 - IAM (create roles for services)
 
-## 📚 Usage
+## Usage
 
 ### Voice Recording
 1. Click "Start voice recording"
@@ -153,7 +153,7 @@ Ensure your AWS user/role has permissions for:
 - Delete individual transcriptions
 - Clear all history
 
-## 🏃‍♂️ Quick Commands
+## Quick Commands
 
 ```bash
 # Start development server
