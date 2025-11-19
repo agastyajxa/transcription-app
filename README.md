@@ -2,8 +2,6 @@
 
 A full-stack transcription application that converts voice recordings and audio files to text using AWS Transcribe service.
 
-![Demo](https://via.placeholder.com/800x400/0f172a/ffffff?text=Transcription+App+Demo)
-
 ## ✨ Features
 
 - **Voice Recording**: Record audio directly in the browser (MP4/M4A format for AWS compatibility)
