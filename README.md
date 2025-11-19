@@ -15,6 +15,10 @@ A full-stack transcription application that converts voice recordings and audio 
 - **Auto-recovery**: Smart polling and auto-fix for stuck transcriptions
 - **Speaker Labels**: Identify up to 2 speakers in audio files
 
+https://github.com/user-attachments/assets/2dff1b62-7a2d-4c59-8502-385395fe0a53
+
+
+
 ## 🏗️ Architecture
 
 ```
